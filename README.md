@@ -1,6 +1,6 @@
 # plymouth-theme-dog
-[![video]](https://boroveen.github.io/video/video.mp4)
-[![dog]](https://boroveen.github.io/video/dog.mp4)
+![video](https://boroveen.github.io/video/video.mp4)
+![dog](https://boroveen.github.io/video/dog.mp4)
 
 ## install
 ```
