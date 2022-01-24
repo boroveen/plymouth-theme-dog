@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=grass
+Description=dog
+Comment=i like dog
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/grass
+ScriptFile=/usr/share/plymouth/themes/grass/grass.script
