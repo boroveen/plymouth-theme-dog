@@ -1,2 +1,2 @@
 # plymouth-theme-dog
-[![Watch the video]](dog.mp4)
+[![Watch the video]](https://boroveen.github.io/video/video.mp4)
